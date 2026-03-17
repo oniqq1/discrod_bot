@@ -67,8 +67,8 @@ discord.py
 📌 Contacts
 If you have any questions or suggestions, contact the author:
 
-GitHub
+GitHub - [https://github.com/oniqq1/]
 
-Telegram
+Telegram - @codeniq
 
-Discord — your Discord tag
+Discord - oinqq
